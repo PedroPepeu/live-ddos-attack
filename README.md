@@ -7,5 +7,7 @@ Architecture
 
 
 Tech Stack
+
 Front: ReactJS
+
 Back: FastAPI
